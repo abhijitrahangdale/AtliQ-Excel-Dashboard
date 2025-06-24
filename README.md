@@ -1,4 +1,4 @@
-### Project Overview
+# Project Overview
 Aimed at delivering actionable insights to improve business decisions.
 
 Focused on creating detailed sales and financial reports.
