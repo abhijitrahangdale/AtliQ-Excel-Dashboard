@@ -69,3 +69,16 @@ Strengthened technical and soft skills essential for data roles.
 
 Positioned the team for future analytics success with a mindset of learning, communication, and strategy.
 
+## Report Links
+
+Customer Performance Report
+
+Market Performance and Sales Targets Comparison Report
+
+Profit and Loss (P&L) Reports by Fiscal Year and Months
+
+Profit and Loss (P&L) Reports by Markets
+
+Profit and Loss (P&L) Reports by Months
+
+
