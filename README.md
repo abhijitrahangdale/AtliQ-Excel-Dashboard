@@ -71,7 +71,7 @@ Positioned the team for future analytics success with a mindset of learning, com
 
 ## Report Links
 
-Customer Performance Report
+AtliQ Customer Performance Report .pdf
 
 Market Performance and Sales Targets Comparison Report
 
