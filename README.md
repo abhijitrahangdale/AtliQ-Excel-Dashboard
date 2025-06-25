@@ -75,7 +75,7 @@ Positioned the team for future analytics success with a mindset of learning, com
 
 [AtliQ Market Performance vs Target Report](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/360e9bdf1aafd8da181fadbf82fb0c084804eb0a/AtliQ%20Market%20Performance%20vs%20Target%20Report%20.pdf)
 
-Profit and Loss (P&L) Reports by Fiscal Year and Months
+[Profit and Loss (P&L) Reports by Fiscal Year and Months](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/585926b192c19ee27dd2b08add8ec46bd06320f5/AtliQ%20P%26L%20Statement%20by%20Fiscal%20Year%20.pdf)
 
 Profit and Loss (P&L) Reports by Markets
 
