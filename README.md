@@ -73,7 +73,7 @@ Positioned the team for future analytics success with a mindset of learning, com
 
 [AtliQ Customer Performance Report](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/7ee334e90d4ebb0236b1f71f7f7b1af6ef86fd9d/AtliQ%20Customer%20Performance%20Report%20.pdf)
 
-AtliQ Market Performance vs Target Report .pdf
+[AtliQ Market Performance vs Target Report](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/360e9bdf1aafd8da181fadbf82fb0c084804eb0a/AtliQ%20Market%20Performance%20vs%20Target%20Report%20.pdf)
 
 Profit and Loss (P&L) Reports by Fiscal Year and Months
 
