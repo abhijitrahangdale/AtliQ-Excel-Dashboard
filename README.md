@@ -71,9 +71,9 @@ Positioned the team for future analytics success with a mindset of learning, com
 
 ## Report Links
 
-[Customer Performance Report](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/main/README.md#:~:text=Report%20Links-,Customer%20Performance%20Report,-Market%20Performance%20and)
+Customer Performance Report
 
-Market Performance and Sales Targets Comparison Reporthttps://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/f71934553757bfed4339feece35bb70e8e04357b/AtliQ%20Market%20Performance%20vs%20Target%20Report%20.pdf
+Market Performance and Sales Targets Comparison Report
 
 Profit and Loss (P&L) Reports by Fiscal Year and Months
 
