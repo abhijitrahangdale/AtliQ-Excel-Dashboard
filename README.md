@@ -71,7 +71,7 @@ Positioned the team for future analytics success with a mindset of learning, com
 
 ## Report Links
 
-AtliQ Customer Performance Report
+[AtliQ Customer Performance Report](https://github.com/abhijitrahangdale/AtliQ-Excel-Dashboard/blob/7ee334e90d4ebb0236b1f71f7f7b1af6ef86fd9d/AtliQ%20Customer%20Performance%20Report%20.pdf)
 
 AtliQ Market Performance vs Target Report .pdf
 
